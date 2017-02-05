@@ -1,0 +1,14 @@
+#grid {
+  background-color: red;
+  display: block;
+  width: 80%
+}
+
+#grid div .box {
+
+  font-style: italic;
+  display: inline-block;;
+  background-color: blue;
+  width: 200px;
+  height: 100px;
+}
