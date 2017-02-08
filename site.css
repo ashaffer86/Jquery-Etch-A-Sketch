@@ -4,11 +4,17 @@
   width: 80%
 }
 
-#grid div .box {
+#grid div div{
 
   font-style: italic;
-  display: inline-block;;
-  background-color: blue;
+  display: inline-block;
   width: 200px;
   height: 100px;
+}
+
+.blue{
+  background-color: blue;
+}
+.white{
+  background-color: white;
 }
