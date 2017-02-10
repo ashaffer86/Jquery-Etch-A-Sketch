@@ -1,15 +1,22 @@
+#wrapper{
+  margin-right: auto;
+  margin-left: auto;
+  width: 900px;
+}
+
 #grid {
   background-color: red;
   display: block;
-  width: 80%
+  height: 900px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #grid div div{
 
   font-style: italic;
   display: inline-block;
-  width: 200px;
-  height: 100px;
+
 }
 
 .blue{
